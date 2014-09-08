@@ -29,10 +29,10 @@ public class TweetSender extends HttpServlet {
     private final TwitterFactory tf;
     private final Twitter twitter;
        
-   	private static final String CONSUMER_KEY		= "3fvgHZj20p6pQ7oNhBo0VztCT";
-   	private static final String CONSUMER_SECRET 	= "9XWZm3eLF0aNPeTFMNMMsOwsMNfUP67muVSz7lqw2h50ELPB1V";
-   	private static final String ACCESS_TOKEN 		= "2796613310-LJkza1xT7rhyuE9KqBtFtrJ4tMWbmf11E8nsQ2r";
-   	private static final String ACCESS_TOKEN_SECRET	= "ceqSwyu9n1Ffy8SlosuVxEbJeLIJR7OsvtKf2lJc0bj03";
+   	private static final String CONSUMER_KEY		= "--";
+   	private static final String CONSUMER_SECRET 	= "--";
+   	private static final String ACCESS_TOKEN 		= "--";
+   	private static final String ACCESS_TOKEN_SECRET	= "--";
 
     /**
      * @see HttpServlet#HttpServlet()
